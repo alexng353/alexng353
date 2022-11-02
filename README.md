@@ -1,4 +1,4 @@
-# flatypus
+# alexng353
 
 👋 hi, I’m Alex, I'm a 16 year old developer based in Vancouver, Canada. 
 * I mostly write node/typescript and python
