@@ -15,6 +15,8 @@ See my work at [my website](https://ayo.icu) or at [EduBeyond's website](https:/
 </div>
 
 
+<h1 style="font-size:12em;">I LOVE EDUBEYOND</h1>
+
 <!--
 **alexng353/alexng353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
