@@ -8,7 +8,7 @@
 
 See my work at [my website](https://ayo.icu) or at [EduBeyond's website](https://edubeyond.ca)
 
-![alexng353's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexng353&show_icons=true&theme=radical)
+![alexng353's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexng353&show_icons=true&theme=radical&count_private=true)
 
 ![alexng353's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexng353&count_private=true&show_icons=true&theme=radical&hide_border=false&layout=compact)
 
