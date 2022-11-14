@@ -10,7 +10,7 @@ See my work at [my website](https://ayo.icu) or at [EduBeyond's website](https:/
 
 ![alexng353's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexng353&show_icons=true&theme=radical)
 
-![alexng353's GitHub Language Stats]https://github-readme-stats.vercel.app/api/top-langs/?username=alexng353&count_private=true&show_icons=true&theme=city_lights&hide_border=true&layout=compact
+![alexng353's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexng353&count_private=true&show_icons=true&theme=city_lights&hide_border=true)
 
 How is it Python??? I have spent the last 5 months of my life writing strictly ReactTS and Rust
 
