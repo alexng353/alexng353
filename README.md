@@ -8,10 +8,11 @@
 
 See my work at [my website](https://ayo.icu) or at [EduBeyond's website](https://edubeyond.ca)
 
-![alexng353's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexng353&show_icons=true&theme=radical&count_private=true)
+<div style="display: flex; flex-direction: row;" >
+<img src="https://github-readme-stats.vercel.app/api?username=alexng353&show_icons=true&theme=radical&count_private=true" height="200px" alt="alexng353's GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexng353&count_private=true&show_icons=true&theme=radical&hide_border=false&layout=compact&hide=javascript,html&langs_count=6" height="200px" alt="alexng353's GitHub Language Stats" />
-
+</div>
 
 
 <!--
