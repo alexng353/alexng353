@@ -12,6 +12,8 @@ See my work at [my website](https://ayo.icu) or at [EduBeyond's website](https:/
 
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuggetbucket54&count_private=true&show_icons=true&theme=city_lights&hide_border=true&layout=compact"/>
 
+How is it Python??? I have spent the last 5 months of my life writing strictly ReactTS and Rust
+
 <!--
 **alexng353/alexng353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
