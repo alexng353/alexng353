@@ -1,6 +1,6 @@
 # alexng353
 
-👋 hi, I’m Alex, I'm a 16 year old developer based in Vancouver, Canada. 
+👋 hi, I’m Alex, I'm a 16 year old developer based in Canada. 
 * I write a lot of react/ts, node/ts and python
 * Learning rust to write high performance programs
 * Can write GoLang but prefer not to
