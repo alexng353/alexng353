@@ -6,7 +6,7 @@
 * Can write GoLang but prefer not to
 * Most of what I do is full stack web development for [@EduBeyond](https://github.com/EduBeyond)
 
-[railway](railway.app) enjoyer
+[railway](https://railway.app) enjoyer
 
 See my work at [my website](https://ayo.icu) or at [EduBeyond's website](https://edubeyond.ca)
 
