@@ -1,5 +1,7 @@
 # alexng353
 
+![deploy failing](https://user-images.githubusercontent.com/26424336/219243493-5a23e72e-2907-4922-8f8c-982e31a9a1fa.svg)
+
 👋 hi, I’m Alex, I'm a 16 year old developer based in Canada. 
 * I write a lot of react/ts, node/ts and python
 * Learning rust to write high performance programs
