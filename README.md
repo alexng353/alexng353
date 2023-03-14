@@ -3,7 +3,7 @@
 ![deploy failing](https://user-images.githubusercontent.com/26424336/219243493-5a23e72e-2907-4922-8f8c-982e31a9a1fa.svg)
 [![My Skills](https://skillicons.dev/icons?i=ts,js,python,html,react,neovim,aws,cloudflare,discord,docker,express,figma,gcp,kubernetes,md,mongodb,postgres,raspberrypi,svelte,vscode)](https://skillicons.dev)
 
-👋 hi, I’m Alex, I'm a 16 year old developer based in Canada. 
+👋 hi, I’m Alex, I'm a \_\_ year old developer based in Canada. 
 * I write a lot of react/ts, node/ts and python
 * Learning rust to write high performance programs
 * Can write GoLang but prefer not to
