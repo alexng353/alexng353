@@ -12,7 +12,7 @@
 
 [railway](https://railway.app) enjoyer
 
-See my work at [my website](https://ayo.icu) or at [EduBeyond's website](https://edubeyond.ca)
+See my work at [my website](https://ayo.icu) or at [EduBeyond's website](https://edubeyond.dev)
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 6px;" >
   <img src="https://github-readme-stats.vercel.app/api?username=alexng353&show_icons=true&theme=radical&count_private=true" height="200px" alt="alexng353's GitHub Stats" />
