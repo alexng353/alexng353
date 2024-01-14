@@ -3,6 +3,7 @@
 ![deploy failing](https://user-images.githubusercontent.com/26424336/219243493-5a23e72e-2907-4922-8f8c-982e31a9a1fa.svg)
 [![wakatime](https://wakatime.com/badge/user/4f35b3ec-f357-44cc-829e-3c8e7a972d24.svg)](https://wakatime.com/@4f35b3ec-f357-44cc-829e-3c8e7a972d24)
 [![My Skills](https://skillicons.dev/icons?i=ts,js,rust,python,html,react,neovim,aws,planetscale,mysql,mongodb,cloudflare,discord,docker,express,figma,gcp,kubernetes,md,mongodb,postgres,raspberrypi,svelte,vscode,vercel,tailscale)](https://skillicons.dev)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alexng353&theme=dark)](https://git.io/streak-stats)
 
 👋 hi, I’m Alex, I'm a \_\_ year old developer based in Canada. 
 * I write a lot of react/ts, node/ts and python
