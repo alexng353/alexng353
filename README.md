@@ -5,19 +5,18 @@
 [![My Skills](https://skillicons.dev/icons?i=rust,neovim,ts,golang,js,python,react,tailwind,html,aws,planetscale,mysql,mongodb,cloudflare,discord,docker,express,figma,gcp,kubernetes,md,mongodb,postgres,raspberrypi,svelte,vercel,tailscale)](https://skillicons.dev)
 
 👋 hi, I’m Alex, I'm a \_\_ year old developer based in Canada. 
-* I write a lot of react/ts, node/ts and python
-* Learning rust to write high performance programs
-* Can write GoLang but prefer not to
-* Most of what I do is full stack web development for [@EduBeyond](https://github.com/EduBeyond)
+* I write a lot of TypeScript (React, Bun scripts), Rust and GoLang.
+* Can write Python but prefer not to
+* Most of what I do is full-stack web development for [@EduBeyond](https://github.com/EduBeyond)
 
 [railway](https://railway.app) enjoyer
 
 See my work at [my website](https://ayo.icu) or at [EduBeyond's website](https://edubeyond.dev)
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 6px;" >
-  <img src="https://github-readme-stats.vercel.app/api?username=alexng353&show_icons=true&theme=radical&count_private=true" height="200px" alt="alexng353's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexng353&show_icons=true&theme=radical&count_private=true" height="180px" alt="alexng353's GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexng353&count_private=true&show_icons=true&theme=radical&hide_border=false&layout=compact&hide=javascript,html&langs_count=6" height="200px" alt="alexng353's GitHub Language Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexng353&count_private=true&show_icons=true&theme=radical&hide_border=false&layout=compact&hide=javascript,html&langs_count=6" height="180px" alt="alexng353's GitHub Language Stats" />
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alexng353&theme=dark)](https://git.io/streak-stats)
