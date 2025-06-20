@@ -4,7 +4,7 @@
 [![wakatime](https://wakatime.com/badge/user/4f35b3ec-f357-44cc-829e-3c8e7a972d24.svg)](https://wakatime.com/@4f35b3ec-f357-44cc-829e-3c8e7a972d24)
 [![My Skills](https://skillicons.dev/icons?i=neovim,apple,linux,github,rust,ts,js,react,tailwind,docker,express,postgres,raspberrypi,vercel,latex)](https://skillicons.dev)
 
-👋 hi, I’m Alex, an 18-year-old developer based in Canada.
+👋 hi, I’m Alex, an 19-year-old developer based in Canada.
 * I write a lot of TypeScript (NextJS, React, Express, Bun), Rust and GoLang.
 * Can write Python but prefer not to
 * Most of what I do is full-stack web development for [@EduBeyond](https://github.com/EduBeyond)
