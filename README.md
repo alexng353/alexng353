@@ -5,14 +5,14 @@
 [![My Skills](https://skillicons.dev/icons?i=neovim,apple,linux,github,rust,ts,js,react,tailwind,docker,express,postgres,raspberrypi,vercel,latex)](https://skillicons.dev)
 
 👋 hi, I’m Alex, an 19-year-old developer based in Canada.
-* I write a lot of TypeScript (NextJS, React, Express, Bun), Rust and GoLang.
-* Can write Python but prefer not to
-* Most of what I do is full-stack web development for [@EduBeyond](https://github.com/EduBeyond)
+* I write a lot of TypeScript (NextJS, React, Express, Bun) and Rust.
+* Other languages I know include Python, C, C++, GoLang...
+* Most of what I do is full-stack web development for [@Futurity](https://github.com/futuritywork)
 * Everything else I do is for University
 
 I deploy everything on [railway](https://railway.app)
 
-See my work at [my website](https://ayo.icu) or at [EduBeyond's website](https://edubeyond.dev)
+See my work at [my website](https://ayo.icu) or at [Futurity's website](https://futurity.work)
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 6px;" >
   <img src="https://github-readme-stats.vercel.app/api?username=alexng353&show_icons=true&theme=radical&count_private=true" height="180px" alt="alexng353's GitHub Stats" />
