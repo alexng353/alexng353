@@ -14,6 +14,11 @@ I deploy everything on [railway](https://railway.app)
 
 See my work at [my website](https://ayo.icu) or at [Futurity's website](https://futurity.work)
 
+Cool things you might like (as a dev, probably):
+- [commitstogram](https://gist.github.com/alexng353/807594a98ae2e72ce33f1220fa0c0704) --- commit histogram
+- [ez](https://gist.github.com/alexng353/fd47bb52f2ad998f08c018795e5ef728) --- ez (get it?) linear issue + worktree + claude code spawner for one-off easy tasks
+- [work](https://gist.github.com/alexng353/8c14ab36c3c341dd64166ce7be48c865) --- git worktree helper
+
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 6px;" >
   <img src="https://github-readme-stats.vercel.app/api?username=alexng353&show_icons=true&theme=radical&count_private=true" height="180px" alt="alexng353's GitHub Stats" />
 
