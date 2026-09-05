@@ -11,11 +11,7 @@
 * Most of what I do is full-stack web development for [@Futurity](https://github.com/futuritywork)
 * Everything else I do is for University
 * I'm also into amateur photography
-* Check out my website, [alexng.dev](https://alexng.dev)
-
-I deploy everything on [railway](https://railway.app)
-
-See my work at [my website](https://ayo.icu) or at [Futurity's website](https://futurity.work)
+* Check out my website, [alexng.dev](https://alexng.dev) and [Futurity's Website](https://futurity.work)
 
 Cool things you might like (as a dev, probably):
 - [commitstogram](https://gist.github.com/alexng353/807594a98ae2e72ce33f1220fa0c0704) --- commit histogram
