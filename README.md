@@ -5,11 +5,13 @@
 ![](https://komarev.com/ghpvc/?username=alexng353)
 [![My Skills](https://skillicons.dev/icons?i=neovim,apple,arch,linux,kubernetes,git,github,githubactions,rust,ts,bun,c,cpp,python,react,nextjs,tailwind,docker,express,postgres,raspberrypi,vercel,latex,nginx)](https://skillicons.dev)
 
-👋 hi, I’m Alex, an 19-year-old developer based in Canada.
+👋 hi, I’m Alex, a 20-year-old developer based in Canada.
 * I write a lot of TypeScript (NextJS, React, Express, Bun) and Rust.
 * Other languages I know include Python, C, C++, GoLang...
 * Most of what I do is full-stack web development for [@Futurity](https://github.com/futuritywork)
 * Everything else I do is for University
+* I'm also into amateur photography
+* Check out my website, [alexng.dev](https://alexng.dev)
 
 I deploy everything on [railway](https://railway.app)
 
